@@ -58,7 +58,9 @@
 - 
 
 ##### Importante
-- 
+- Filtros de Daltonismo
+- Leitura de Tela
+- Modo de Alto Contraste
 
 ##### Se der Tempo
 - 
