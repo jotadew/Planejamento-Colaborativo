@@ -63,7 +63,8 @@
 - Modo de Alto Contraste
 
 ##### Se der Tempo
-- 
+- Sistema Offline para áreas rurais
+- Suporte ao vivo com atendimento
 ---
 
 ### Geral
