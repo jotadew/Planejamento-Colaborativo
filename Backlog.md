@@ -23,10 +23,11 @@
 
 ### Inteligência Artificial
 ##### Urgência
-- 
+- Escolha da IA (Imagem e Resposta)
+- Criar conta para acesso da IA
 
 ##### Importante
-- 
+- Custeio dos Tokens
 
 ##### Se der Tempo
 - 
