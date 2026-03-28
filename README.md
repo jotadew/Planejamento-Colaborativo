@@ -1,4 +1,4 @@
-![alt text](vou_colocar_logo_aqui)
+![alt text](https://github.com/jotadew/Planejamento-Colaborativo/blob/assets/projeto_logo-removebg-preview.png?raw=true)
 # [NOME DO PROJETO]
 ### O seu assistente na produção rural
 \
