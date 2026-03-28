@@ -8,15 +8,55 @@
 
 ##### Importante
 - Popular o Banco de Dados (Plantas)
+- Popular o Banco de Dados (Maquinários)
+- Popular o Banco de Dados (Tratamentos)
+- Popular o Banco de Dados (Ferramentas)
+-
 
 ##### Se der Tempo
 - 
 ---
 
 ### Inteligência Artificial
+##### Urgência
+- 
+
+##### Importante
+- 
+
+##### Se der Tempo
+- 
+---
 
 ### Frontend
+##### Urgência
+- 
+
+##### Importante
+- 
+
+##### Se der Tempo
+- 
+---
 
 ### Acessibilidade
+##### Urgência
+- 
+
+##### Importante
+- 
+
+##### Se der Tempo
+- 
+---
 
 ### Geral
+##### Urgência
+- 
+
+##### Importante
+- 
+
+##### Se der Tempo
+- 
+---
