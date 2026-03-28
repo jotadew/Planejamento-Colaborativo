@@ -31,9 +31,11 @@
 - Treinamento da IA com prompts e respostas
 - Treinamento da IA no reconhecimento das imagens
 - Conectar ao Banco de Dados
+- Integrar API visual
+- Integrar API linguística
 
 ##### Se der Tempo
-- 
+- Interação por Voz com a IA
 ---
 
 ### Frontend
@@ -41,7 +43,8 @@
 - 
 
 ##### Importante
-- 
+- Tela de Cadastro
+- Botões
 
 ##### Se der Tempo
 - 
