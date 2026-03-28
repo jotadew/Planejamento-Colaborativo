@@ -11,7 +11,9 @@
 - Popular o Banco de Dados (Maquinários)
 - Popular o Banco de Dados (Tratamentos)
 - Popular o Banco de Dados (Ferramentas)
--
+- Popular o Banco de Dados (Insumos)
+- Popular o Banco de Dados (Cultivos e Técnicas)
+- Popular o Banco de Dados (Pragas)
 
 ##### Se der Tempo
 - 
