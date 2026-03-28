@@ -1,12 +1,22 @@
-<p style="font-size:45px; "><b>33 Tarefas</b></p>
-As tarefas foram organizadas nas seguintes categorias:
+# 33 Tarefas
+## Organizadas nas seguintes categorias:
 
-## Backend
+### Backend
+##### Urgência
+- Criação do Banco de Dados
+- Sistema de Upload de Imagem 
 
-## Inteligência Artificial
+##### Importante
+- Popular o Banco de Dados (Plantas)
 
-## Frontend
+##### Se der Tempo
+- 
+---
 
-## Acessibilidade
+### Inteligência Artificial
 
-## Geral
+### Frontend
+
+### Acessibilidade
+
+### Geral
