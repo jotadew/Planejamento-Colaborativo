@@ -72,7 +72,8 @@
 - 
 
 ##### Importante
-- 
+- Testes Recorrentes e Validação
+- Registro nas Lojas de Aplicativos
 
 ##### Se der Tempo
 - 
