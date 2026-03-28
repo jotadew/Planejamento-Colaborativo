@@ -45,6 +45,9 @@
 ##### Importante
 - Tela de Cadastro
 - Botões
+- Tela da Conta/Usuário
+- Tela do Chat com a IA
+- Tela de Histórico de Consultas
 
 ##### Se der Tempo
 - 
