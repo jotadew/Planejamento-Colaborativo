@@ -14,9 +14,11 @@
 - Popular o Banco de Dados (Insumos)
 - Popular o Banco de Dados (Cultivos e Técnicas)
 - Popular o Banco de Dados (Pragas)
+- Popular o Banco de Dados (Sementes)
+- Popular o Banco de Dados (Doenças)
 
 ##### Se der Tempo
-- 
+- Integração com climas regionais e previsão do tempo (Melhoria de Respostas)
 ---
 
 ### Inteligência Artificial
