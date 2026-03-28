@@ -28,6 +28,9 @@
 
 ##### Importante
 - Custeio dos Tokens
+- Treinamento da IA com prompts e respostas
+- Treinamento da IA no reconhecimento das imagens
+- Conectar ao Banco de Dados
 
 ##### Se der Tempo
 - 
