@@ -1,14 +1,14 @@
 ## A fazer
 
 
+
+## Fazendo 
+
 - Popular o Banco de Dados (Cultivos e Técnicas)
 - Popular o Banco de Dados (Pragas)
 - Popular o Banco de Dados (Sementes)
 - Popular o Banco de Dados (Doenças)
 - Integração com climas regionais e previsão do tempo 
-
-## Fazendo 
-
 
 
 
