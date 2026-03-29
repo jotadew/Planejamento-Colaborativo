@@ -4,12 +4,6 @@
 
 ### Sidney 
 ##### A fazer
-- Criação do Banco de Dados
-- Popular o Banco de Dados (Plantas)
-- Popular o Banco de Dados (Maquinários)
-- Popular o Banco de Dados (Tratamentos)
-- Popular o Banco de Dados (Ferramentas)
-- Popular o Banco de Dados (Insumos)
 - Popular o Banco de Dados (Cultivos e Técnicas)
 - Popular o Banco de Dados (Pragas)
 - Popular o Banco de Dados (Sementes)
@@ -20,7 +14,12 @@
 
 
 ##### Feito
-
+- Criação do Banco de Dados
+- Popular o Banco de Dados (Plantas)
+- Popular o Banco de Dados (Maquinários)
+- Popular o Banco de Dados (Tratamentos)
+- Popular o Banco de Dados (Ferramentas)
+- Popular o Banco de Dados (Insumos)
 
 
 
