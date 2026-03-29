@@ -4,11 +4,7 @@
 
 ### Sidney 
 ##### A fazer
-- Popular o Banco de Dados (Cultivos e Técnicas)
-- Popular o Banco de Dados (Pragas)
-- Popular o Banco de Dados (Sementes)
-- Popular o Banco de Dados (Doenças)
-- Integração com climas regionais e previsão do tempo 
+ 
 
 ##### Fazendo
 
@@ -20,7 +16,11 @@
 - Popular o Banco de Dados (Tratamentos)
 - Popular o Banco de Dados (Ferramentas)
 - Popular o Banco de Dados (Insumos)
-
+- Popular o Banco de Dados (Cultivos e Técnicas)
+- Popular o Banco de Dados (Pragas)
+- Popular o Banco de Dados (Sementes)
+- Popular o Banco de Dados (Doenças)
+- Integração com climas regionais e previsão do tempo 
 
 
 ---
@@ -91,4 +91,4 @@
 
 ## Durante o Desenvolvimento
 
-![alt text]()
+![alt text](https://github.com/jotadew/Planejamento-Colaborativo/blob/eb7b073addc8cb22be2e489bd4b9c4e351450ea9/Arquivo/Captura%20de%20tela%202026-03-29%20183602.png)
