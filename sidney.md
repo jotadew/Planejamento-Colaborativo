@@ -12,8 +12,9 @@
 ## Fazendo 
 
 
-- Popular o Banco de Dados (Maquinários)
+
  
 ## Feito
 - Criação do Banco de Dados: Criado a base do Banco de dados do aplicativo.
 - Popular o Banco de Dados (Plantas): Banco de dados criado para armazenar e organizar informações sobre plantas, como espécie, características e cuidados.
+- Popular o Banco de Dados (Maquinários): Banco de dados criado para armazenar e organizar informações sobre maquinarios, como configurações e manutenções.
