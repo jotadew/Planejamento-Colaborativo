@@ -3,7 +3,8 @@
 ### Popular o Banco de Dados (Pragas).
 #### Popular o Banco de Dados (Plantas).
 ##### Popular o Banco de Dados (Maquinário)
+###### Popular o Banco de Dados (Cultivos e Técnicas).
 
 # Tarefas em andamento.
-## Popular o Banco de Dados (Cultivos e Técnicas).
+
 
