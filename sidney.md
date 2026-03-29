@@ -11,8 +11,9 @@
 
 ## Fazendo 
 
-- Popular o Banco de Dados (Plantas)
+
 - Popular o Banco de Dados (Maquinários)
  
 ## Feito
 - Criação do Banco de Dados: Criado a base do Banco de dados do aplicativo.
+- Popular o Banco de Dados (Plantas): Banco de dados criado para armazenar e organizar informações sobre plantas, como espécie, características e cuidados.
