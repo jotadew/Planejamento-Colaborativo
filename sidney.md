@@ -3,3 +3,4 @@
 ### Popular o Banco de Dados (Pragas).
 
 # Tarefas em andamento.
+## Popular o Banco de Dados (Plantas).
