@@ -1,7 +1,8 @@
 # Sprints
 ## Organizado por desenvolvedor:
+## (Seguir ordem de prioridades definidas no trello)
 
-### Sidney
+### Sidney 
 ##### A fazer
 - Criação do Banco de Dados
 - Popular o Banco de Dados (Plantas)
@@ -75,3 +76,11 @@
 
 
 ---
+
+# Imagens para registros das etapas no trello
+
+![alt text](https://github.com/jotadew/Planejamento-Colaborativo/issues/1#issue-4164860027)
+
+
+
+
