@@ -10,8 +10,9 @@
 - Integração com climas regionais e previsão do tempo 
 
 ## Fazendo 
-- Criação do Banco de Dados
+
 - Popular o Banco de Dados (Plantas)
 - Popular o Banco de Dados (Maquinários)
  
 ## Feito
+- Criação do Banco de Dados: Criado a base do Banco de dados do aplicativo.
