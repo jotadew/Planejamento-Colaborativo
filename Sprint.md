@@ -88,3 +88,7 @@
 ## Ajuste ciclo de tarefas por desenvolvedor e data de entrega
 
 ![alt text](https://github.com/jotadew/Planejamento-Colaborativo/blob/b76446dac0071d40366db2f8d7841a6cffd3ec32/Arquivos/Captura%20de%20tela%202026-03-29%20124838.png)
+
+## Durante o Desenvolvimento
+
+![alt text]()
