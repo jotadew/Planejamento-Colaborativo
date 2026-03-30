@@ -62,3 +62,11 @@ Sistema lê em voz alta os elementos da interface.
 - leitura de mensagens do chat
 - pausa e retomada da leitura
 - ajuste de velocidade
+
+#Modo de Alto Contraste
+
+Permite ativar alto contraste para facilitar a leitura.
+
+- cores de fundo e texto ajustadas
+- destaque de botões e campos importantes
+- fácil ativação/desativação
