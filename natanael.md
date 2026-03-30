@@ -41,3 +41,12 @@ Definir como a IA deve responder de forma clara, simples e útil para o produtor
 
 ## Resultado
 Foi definido que a IA deve gerar respostas objetivas, com linguagem acessível e recomendações práticas para o campo.
+
+
+# Treinamento da IA no Reconhecimento das Imagens 6
+
+## Objetivo
+Planejar como a IA irá reconhecer sementes, pragas e doenças por meio de imagens.
+
+## Resultado
+Foi planejado o uso de reconhecimento visual para identificar imagens enviadas pelo usuário e retornar a classificação mais provável.
