@@ -26,6 +26,11 @@
 ---
 ### Natanael
 ##### A fazer
+
+##### Fazendo
+
+
+##### Feito
 - Sistema de Upload de Imagem 
 - Escolha da IA (Imagem e Resposta)
 - Criar conta para acesso da IA
@@ -37,11 +42,6 @@
 - Integrar API visual
 - Integrar API linguística
 - Interação por Voz com a IA
-##### Fazendo
-
-
-##### Feito
-
 
 
 
@@ -49,7 +49,16 @@
 ---
 ### Rafael
 ##### A fazer
-- - Tela de Cadastro
+
+
+##### Fazendo
+
+
+
+
+
+##### Feito
+- Tela de Cadastro
 - Botões
 - Tela da Conta/Usuário
 - Tela do Chat com a IA
@@ -61,15 +70,6 @@
 - Suporte ao vivo com atendimento
 - Testes Recorrentes e Validação
 - Registro nas Lojas de Aplicativos
-
-##### Fazendo
-
-
-
-
-
-##### Feito
-
 
 
 
@@ -92,3 +92,6 @@
 ## Durante o Desenvolvimento
 
 ![alt text](https://github.com/jotadew/Planejamento-Colaborativo/blob/eb7b073addc8cb22be2e489bd4b9c4e351450ea9/Arquivo/Captura%20de%20tela%202026-03-29%20183602.png)
+
+## Projeto Concluido
+![alt text](https://github.com/jotadew/Planejamento-Colaborativo/blob/eb7b073addc8cb22be2e489bd4b9c4e351450ea9/Arquivo/Captura%20de%20tela%202026-03-29%223205.png)
