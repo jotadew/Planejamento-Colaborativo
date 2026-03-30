@@ -45,3 +45,11 @@ Mostra as interações anteriores do usuário com a IA.
 - visualização de perguntas e respostas
 - filtro de consultas
 - opção de excluir consultas
+
+#Filtros de Daltonismo
+
+Permite diferenciar cores para usuários com daltonismo.
+
+- ajuste de cores para diferentes tipos
+- destaque de elementos importantes
+- alterações na paleta para melhor contraste
