@@ -87,3 +87,11 @@ Permite que o usuário receba ajuda em tempo real.
 - envio de fotos ou prints
 - registro do atendimento no histórico
 - notificações de resposta
+
+#Testes Recorrentes e Validação
+
+Garantir que o sistema funcione corretamente.
+
+- testes automáticos e manuais
+- validação de cada funcionalidade
+- registro de erros e ajustes
