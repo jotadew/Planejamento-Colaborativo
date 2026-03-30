@@ -26,3 +26,13 @@ Permite que o usuário veja e edite seus dados.
 - botão para alterar senha
 - botão para salvar alterações
 - botão para sair da conta
+
+#Tela do Chat com a IA
+
+Permite interação do usuário com a inteligência artificial.
+
+- área para digitar perguntas
+- botão para enviar mensagem
+- botão para enviar foto
+- exibição das respostas da IA
+- histórico da conversa
