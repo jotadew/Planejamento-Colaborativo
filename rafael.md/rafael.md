@@ -78,3 +78,12 @@ Permite usar o aplicativo sem internet.
 - acesso ao histórico de consultas
 - envio de perguntas e fotos armazenadas localmente
 - sincronização automática quando voltar a conexão
+
+#Suporte ao vivo com atendimento
+
+Permite que o usuário receba ajuda em tempo real.
+
+- chat com atendente
+- envio de fotos ou prints
+- registro do atendimento no histórico
+- notificações de resposta
