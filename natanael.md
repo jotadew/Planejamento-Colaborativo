@@ -23,3 +23,12 @@ Planejar a criação da conta necessária para utilizar a API da inteligência a
 
 ## Resultado
 Foi definido que será criada uma conta na plataforma escolhida, com chave de API protegida para uso seguro no sistema.
+
+
+# Custeio dos Tokens
+
+## Objetivo
+Planejar os custos do uso da inteligência artificial por chamadas de API.
+
+## Resultado
+Foi realizado o planejamento inicial de custos, considerando uso de análise de imagem e respostas em texto para manter o sistema viável.
