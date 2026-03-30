@@ -77,3 +77,12 @@ Planejar a integração da IA responsável por gerar respostas em texto para o u
 
 ## Resultado
 Foi definida a integração de uma API linguística para explicar resultados, sugerir tratamentos e orientar o produtor rural.
+
+
+# Interação por Voz com a IA 10
+
+## Objetivo
+Planejar uma funcionalidade futura de interação por voz para facilitar o uso do sistema em áreas rurais.
+
+## Resultado
+Foi registrada como melhoria futura a possibilidade de perguntas por áudio e respostas em voz para maior acessibilidade.
