@@ -32,3 +32,12 @@ Planejar os custos do uso da inteligência artificial por chamadas de API.
 
 ## Resultado
 Foi realizado o planejamento inicial de custos, considerando uso de análise de imagem e respostas em texto para manter o sistema viável.
+
+
+# Treinamento da IA com Prompts e Respostas
+
+## Objetivo
+Definir como a IA deve responder de forma clara, simples e útil para o produtor rural.
+
+## Resultado
+Foi definido que a IA deve gerar respostas objetivas, com linguagem acessível e recomendações práticas para o campo.
