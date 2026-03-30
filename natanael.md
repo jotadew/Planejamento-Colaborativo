@@ -50,3 +50,12 @@ Planejar como a IA irá reconhecer sementes, pragas e doenças por meio de image
 
 ## Resultado
 Foi planejado o uso de reconhecimento visual para identificar imagens enviadas pelo usuário e retornar a classificação mais provável.
+
+
+# Conectar ao Banco de Dados 7
+
+## Objetivo
+Planejar a integração entre a inteligência artificial e o banco de dados do sistema.
+
+## Resultado
+Foi definido que, após a identificação feita pela IA, o sistema buscará informações complementares no banco de dados para enriquecer a resposta.
