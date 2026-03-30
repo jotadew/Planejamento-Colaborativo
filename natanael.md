@@ -59,3 +59,12 @@ Planejar a integração entre a inteligência artificial e o banco de dados do s
 
 ## Resultado
 Foi definido que, após a identificação feita pela IA, o sistema buscará informações complementares no banco de dados para enriquecer a resposta.
+
+
+# Integrar API Visual 8
+
+## Objetivo
+Planejar a integração da API responsável pela análise das imagens enviadas pelo usuário.
+
+## Resultado
+Foi definida a integração de uma API visual para receber fotos, analisar sementes, pragas e doenças e retornar a identificação provável.
