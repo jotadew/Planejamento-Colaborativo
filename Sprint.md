@@ -94,4 +94,4 @@
 ![alt text](https://github.com/jotadew/Planejamento-Colaborativo/blob/eb7b073addc8cb22be2e489bd4b9c4e351450ea9/Arquivo/Captura%20de%20tela%202026-03-29%20183602.png)
 
 ## Projeto Concluido
-![alt text](https://github.com/jotadew/Planejamento-Colaborativo/blob/eb7b073addc8cb22be2e489bd4b9c4e351450ea9/Arquivo/Captura%20de%20tela%202026-03-29%223205.png)
+![alt text](https://github.com/jotadew/Planejamento-Colaborativo/blob/cd6bd8de3bc7a0917c135430a6c3fcc33c004e39/Arquivo/Captura%20de%20tela%202026-03-29%20223205.png)
