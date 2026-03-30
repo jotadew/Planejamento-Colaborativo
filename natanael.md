@@ -68,3 +68,12 @@ Planejar a integração da API responsável pela análise das imagens enviadas p
 
 ## Resultado
 Foi definida a integração de uma API visual para receber fotos, analisar sementes, pragas e doenças e retornar a identificação provável.
+
+
+# Integrar API Linguística 9
+
+## Objetivo
+Planejar a integração da IA responsável por gerar respostas em texto para o usuário.
+
+## Resultado
+Foi definida a integração de uma API linguística para explicar resultados, sugerir tratamentos e orientar o produtor rural.
