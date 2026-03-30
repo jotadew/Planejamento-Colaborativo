@@ -86,3 +86,11 @@ Planejar uma funcionalidade futura de interação por voz para facilitar o uso d
 
 ## Resultado
 Foi registrada como melhoria futura a possibilidade de perguntas por áudio e respostas em voz para maior acessibilidade.
+
+# Filtros de Daltonismo 11
+
+## Objetivo
+Planejar filtros visuais para facilitar o uso do sistema por pessoas com diferentes tipos de daltonismo.
+
+## Resultado
+Foi definido que o aplicativo poderá oferecer ajustes de cores e contraste para melhorar a visualização de botões, alertas e informações importantes.
