@@ -53,3 +53,12 @@ Permite diferenciar cores para usuários com daltonismo.
 - ajuste de cores para diferentes tipos
 - destaque de elementos importantes
 - alterações na paleta para melhor contraste
+
+#Leitura de Tela
+
+Sistema lê em voz alta os elementos da interface.
+
+- leitura de textos, botões e menus
+- leitura de mensagens do chat
+- pausa e retomada da leitura
+- ajuste de velocidade
