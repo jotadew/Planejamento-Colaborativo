@@ -70,3 +70,11 @@ Permite ativar alto contraste para facilitar a leitura.
 - cores de fundo e texto ajustadas
 - destaque de botões e campos importantes
 - fácil ativação/desativação
+
+#Sistema Offline para áreas rurais
+
+Permite usar o aplicativo sem internet.
+
+- acesso ao histórico de consultas
+- envio de perguntas e fotos armazenadas localmente
+- sincronização automática quando voltar a conexão
