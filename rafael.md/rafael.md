@@ -95,3 +95,11 @@ Garantir que o sistema funcione corretamente.
 - testes automáticos e manuais
 - validação de cada funcionalidade
 - registro de erros e ajustes
+
+#Registro nas Lojas de Aplicativos
+
+Preparar o aplicativo para publicação.
+
+- criação de contas em lojas (Android/iOS)
+- envio de builds
+- preenchimento de informações e screenshots
