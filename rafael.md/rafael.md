@@ -36,3 +36,12 @@ Permite interação do usuário com a inteligência artificial.
 - botão para enviar foto
 - exibição das respostas da IA
 - histórico da conversa
+
+#Tela de Histórico de Consultas
+
+Mostra as interações anteriores do usuário com a IA.
+
+- lista de consultas com data e hora
+- visualização de perguntas e respostas
+- filtro de consultas
+- opção de excluir consultas
