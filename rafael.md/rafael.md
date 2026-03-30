@@ -16,3 +16,13 @@ Define os botões principais da interface.
 - botão de confirmação
 - botão de cancelamento
 - botões de navegação
+
+#Tela da Conta/Usuário
+
+Permite que o usuário veja e edite seus dados.
+
+- exibição do nome e e-mail
+- botão para editar informações
+- botão para alterar senha
+- botão para salvar alterações
+- botão para sair da conta
